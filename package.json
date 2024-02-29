@@ -1,0 +1,36 @@
+{
+  "name": "kuroshiro-rk",
+  "version": "1.2.3",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d dist"
+  },
+  "keywords": [
+    "Japanese",
+    "language",
+    "convert",
+    "converter",
+    "kanji",
+    "hiragana",
+    "katakana",
+    "kana",
+    "romaji",
+    "furigana",
+    "okurigana",
+    "library",
+    "utility",
+    "tool",
+    "hepburn"
+  ],
+  "author": {
+    "name": "Hexen Qi",
+    "email": "hexenq@gmail.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
